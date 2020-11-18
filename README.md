@@ -1,1 +1,2 @@
-# A-star_Algorithm
+# CS440_HeuristicSearch
+First AI project! 
